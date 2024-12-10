@@ -1,2 +1,2 @@
-# HackerRank_SQL_Exercises
+# HackerRank_SQL
 Solutions for HackerRank problems
