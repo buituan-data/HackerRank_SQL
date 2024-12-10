@@ -1,2 +1,2 @@
 # HackerRank_SQL
-Solutions for HackerRank problems
+Solutions for all HackerRank problems, define problems, and execute syntax to resolve the problems
