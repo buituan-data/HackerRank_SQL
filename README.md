@@ -8,7 +8,7 @@ Solutions for all HackerRank problems, define problems, and execute the syntax t
    - **Solution SQL**:    ```sql SELECT DISTINCT city FROM station WHERE city REGEXP '^[aeiou]';```
    - **Description**:
      - Use the regular expression REGXP to resolve it 
-     - Another query to resolve this problem, but it will make the query longer and not approach the main purpose of this practice: [volwels_start_city.sql](SQL/Basic/volwels_start_city.sql)
+     - Another query to resolve this problem, but it will make the query longer and not approach the main purpose of this practice: [vowels_start_city.sql](SQL/Basic/vowels_start_city.sql)
 
 ### Intermediate
 1. **Shortest_Longtest City Name**: Query the two cities in STATION with the shortest and longest CITY names.
