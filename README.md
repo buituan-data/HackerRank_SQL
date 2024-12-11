@@ -4,9 +4,9 @@ Solutions for all HackerRank problems, define problems and execute the syntax to
 ## Problem List
 
 ### Basic
-1. **The second problems**: Updating
+1. **The first problem**: Updating
     
-2. **The second problems**: Updating
+2. **The second problem**: Updating
 
 ### Intermediate
 1. **Shortest_Longtest City Name**: Query the two cities in STATION with the shortest and longest CITY names.
