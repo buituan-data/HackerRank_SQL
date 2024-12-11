@@ -5,7 +5,7 @@ Solutions for all HackerRank problems, define problems and execute the syntax to
 
 ### Easy
 1. **Shortest_Longtest City Name**: Query the two cities in STATION with the shortest and longest CITY names.
-   - **Solution File:** [SubQuery_MAX_LENGTH.sql](SQL/Intermediate/SubQuery_MAX_LENGTH.sql)
+   - **Solution File:** [SubQuery_MAX_LENGTH.sql](SQL/Intermediate/SubQuery_max_length.sql)
    - **Description:**
      - Retrieve the city with the shortest & longest name length.
      - If there are multiple cities with the same length, return the one that comes first alphabetically.
