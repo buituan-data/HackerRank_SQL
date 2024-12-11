@@ -15,6 +15,7 @@ Solutions for all HackerRank problems, define problems and execute the syntax to
      - Retrieve the city with the shortest & longest name length.
      - If there are multiple cities with the same length, return the one that comes first alphabetically.
      - Write two separate queries, to get desired output. It need not be a single query.
+
 2. **The second problem**: Updating
 
 ### Advanced
