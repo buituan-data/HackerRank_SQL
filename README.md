@@ -5,7 +5,7 @@ Solutions for all HackerRank problems, define problems, and execute the syntax t
 
 ### Basic
 1. **Vowels starting City Name**: Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates.
-   - **Solution SQL**:    ```SELECT DISTINCT city FROM station WHERE city REGEXP '^[aeiou]';```
+   - **Solution SQL**:    ```SELECT DISTINCT(city) FROM station WHERE city REGEXP '^[aeiou]';```
    - **Description**:
      - Use the regular expression REGXP to resolve it 
      - Another query to resolve this problem, but it will make the query longer and not approach the main purpose of this practice: [vowels_start_city.sql](SQL/Basic/vowels_start_city.sql)
